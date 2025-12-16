@@ -23,7 +23,7 @@
 - Git
 - LaTeX
 
----
+--- Contact Me
 
 ### 📎 Links
 - 🌐 Personal Website: (coming soon)
