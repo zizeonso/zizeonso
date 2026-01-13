@@ -18,10 +18,10 @@
 ### 🛠 Technical Skills
 - Python
 - PyTorch
-- NumPy / xarray
+- All functional library
 - Linux
-- Git
 - LaTeX
+- java
 
 --- Contact Me
 
