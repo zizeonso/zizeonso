@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/img/quange.png" width="128" alt="Zijin Su" />
+  <img src="https://zizeonso.github.io/assets/img/quange.png" width="128" alt="Zijin Su" />
 
   <h1>Hi, I'm Zijin Su</h1>
 
@@ -59,12 +59,11 @@ test, and explain.
 - NLP, weak labeling, and data-centric model improvement
 - Lightweight tools that make technical work easier to repeat
 
-### GitHub Snapshot
+### Find Me
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zizeonso&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Zijin Su's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizeonso&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</div>
+- Personal website: [zizeonso.github.io](https://zizeonso.github.io/)
+- GitHub: [github.com/zizeonso](https://github.com/zizeonso)
+- CV: [Download PDF](https://zizeonso.github.io/assets/cv/final_cv.pdf)
 
 ---
 
