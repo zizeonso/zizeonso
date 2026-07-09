@@ -10,6 +10,8 @@
   </p>
 
   <p>
+    <a href="https://zizeonso.github.io/">Website</a>
+    ·
     <a href="https://zizeonso.github.io/assets/cv/final_cv.pdf">CV</a>
     ·
     <a href="mailto:zcapsua@ucl.ac.uk">Email</a>
