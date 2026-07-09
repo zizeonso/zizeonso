@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://zizeonso.github.io/assets/img/quange.png" width="128" alt="Zijin Su" />
-
   <h1>Hi, I'm Zijin Su</h1>
 
   <p>
@@ -12,8 +10,6 @@
   </p>
 
   <p>
-    <a href="https://zizeonso.github.io/">Website</a>
-    ·
     <a href="https://zizeonso.github.io/assets/cv/final_cv.pdf">CV</a>
     ·
     <a href="mailto:zcapsua@ucl.ac.uk">Email</a>
@@ -61,8 +57,6 @@ test, and explain.
 
 ### Find Me
 
-- Personal website: [zizeonso.github.io](https://zizeonso.github.io/)
-- GitHub: [github.com/zizeonso](https://github.com/zizeonso)
 - CV: [Download PDF](https://zizeonso.github.io/assets/cv/final_cv.pdf)
 
 ---
